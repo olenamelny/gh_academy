@@ -1,0 +1,4 @@
+mkdir computer-systems-task-1
+ touch task1.txt 
+ vi task1.txt 
+ cat task1.txt | sed 's/course/class/g'
